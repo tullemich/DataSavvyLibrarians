@@ -7,7 +7,7 @@
 
 ### Definitioner
 
-- Fork = 
+- Fork = :fork_and_knife:
 - Branch =
 - Commit =
 - Pull request =
